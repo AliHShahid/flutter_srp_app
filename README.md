@@ -1,1 +1,1 @@
-# Salon Resource Planning (SAP)
+# Salon Resource Planning (SRP)
